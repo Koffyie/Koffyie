@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Koffyie/Koffyie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An aspiring Data Scientist deeply interested in Sustainability, Python and Youth Empowerment.✨
 
-Here are some ideas to get you started:
+---
+### 🛠️ Skills / Tech Stack
+- **Languages:** Python, Java
+- **Data Analysis:** Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Tools:** Jupyter Notebook, Git, Canva
+- **Domains:** Data Science, Environmental Tech, STEM Advocacy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📌 Ongoing Projects
+- 📊 *Data Analysis Projects* (Python-based)
+- 📚 *PDF-to-Audiobook Converter* (Python)
+- 🧪 *Environmental & STEM Outreach Initiatives*
+
+---
+### 📫 Contact Me
+- 💼 [LinkedIn](www.linkedin.com/in/kofoworola-adekunle-18b067334)
+- 📧 Email: kofoadek15@gmail.com
+
+
+
+
+
