@@ -4,7 +4,7 @@ An aspiring Data Scientist deeply interested in Sustainability, Python and Youth
 
 ---
 ### 🛠️ Skills / Tech Stack
-- **Languages:** Python, Java
+- **Languages:** Python, Java, SQL
 - **Data Analysis:** Pandas, Matplotlib, Seaborn, Scikit-learn
 - **Tools:** Jupyter Notebook, Git, Canva
 - **Domains:** Data Science, Environmental Tech, STEM Advocacy
