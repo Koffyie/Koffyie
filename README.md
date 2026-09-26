@@ -12,13 +12,13 @@ An AI/ML Engineer and Computer Science student building practical, deployed AI s
 
 ---
 ### 📌 Featured Projects
-🌿 Plant Disease Detection — Computer vision model (MobileNetV2) classifying 38 plant disease categories at 96%+ validation accuracy, deployed as a live demo
-🌍 West Africa Hunger Prediction — Regression pipeline estimating food insecurity severity across West African states using real socio-economic data
-🤖 BizAssist AI — AI-powered WhatsApp assistant helping Nigerian SME owners with business registration and ad content generation
-🔍 Secret Loyalties Hackathon — White-box probing research auditing language models for hidden behavioral loyalties (Top 25%, Apart x Formation Research)
-📊 *Data Analysis Projects* (Python-based)
-📚 *PDF-to-Audiobook Converter* (Python)
-🧪 *Environmental & STEM Outreach Initiatives*
+- 🌿 Plant Disease Detection — Computer vision model (MobileNetV2) classifying 38 plant disease categories at 96%+ validation accuracy, deployed as a live demo
+- 🌍 West Africa Hunger Prediction — Regression pipeline estimating food insecurity severity across West African states using real socio-economic data
+- 🤖 BizAssist AI — AI-powered WhatsApp assistant helping Nigerian SME owners with business registration and ad content generation
+- 🔍 Secret Loyalties Hackathon — White-box probing research auditing language models for hidden behavioral loyalties (Top 25%, Apart x Formation Research)
+- 📊 *Data Analysis Projects* (Python-based)
+- 📚 *PDF-to-Audiobook Converter* (Python)
+- 🧪 *Environmental & STEM Outreach Initiatives*
 
 ---
 ### 🌱 Currently exploring
